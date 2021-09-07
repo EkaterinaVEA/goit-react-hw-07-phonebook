@@ -1,0 +1,44 @@
+{
+    "contacts": [
+        {
+            "id": "id-1",
+            "name": "Will Smith",
+            "number": "111-11-11"
+        },
+        {
+            "id": "id-2",
+            "name": "Tom Hardy",
+            "number": "222-22-22"
+        },
+        {
+            "id": "id-3",
+            "name": "Jennifer Aniston",
+            "number": "333-33-33"
+        },
+        {
+            "id": "id-4",
+            "name": "Julia Roberts",
+            "number": "444-44-44"
+        },
+        {
+            "id": "id-5",
+            "name": "Will Smith",
+            "number": "111-11-11"
+        },
+        {
+            "id": "id-5",
+            "name": "Tom Hardy",
+            "number": "222-22-22"
+        },
+        {
+            "id": "id-7",
+            "name": "Jennifer Aniston",
+            "number": "333-33-33"
+        },
+        {
+            "id": "id-8",
+            "name": "Julia Roberts",
+            "number": "444-44-44"
+        }
+    ]
+}
